@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Unit 1 CapStone API </title>
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <link href="main.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <main>
+        <h1>Display Famous Person &amp; Their Wikipedia Page</h1>
+        <form action="#" class="js-search-form">
+            <label for="query"></label>
+            <input type="text" class="js-query">
+            <button type="submit">Search</button>
+        </form>
+
+        <div class="noResponse">
+            <p> Please Enter A Famous Person </p>
+        </div>
+        <div class="js-search-results">
+
+        </div>
+        <section class="wikidata-section" style="display: none;">
+
+            <h1 class="text">Your Famous Personality was:</h1>
+            <div class="wiki-name"> </div>
+            <div class="wiki-picture"></div>
+            <div class="wiki-extract"></div>
+        </section>
+        <section class="youtube-section" style="display: none;">
+            <h1 class="video-data">Famous Personality videos</h1>
+            <div class="youtube-videos"></div>
+        </section>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

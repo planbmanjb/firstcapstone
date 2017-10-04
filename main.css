@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    /*The box-sizing property is used to tell the browser what the sizing properties (width and height) should include border-box.*/
+    box-sizing: border-box;
+    /*reset Chrome user agent styles*/
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0px;
+    -webkit-padding-after: 0px;
+    -webkit-padding-start: 0px;
+    -webkit-padding-end: 0px;
+}
+
+body {
+    padding-top: 20px;
+}
+
+button {
+    /*    text-decoration-color: #fff;*/
+    color: #fff;
+    padding: 7px;
+}
+
+.noResponse {
+    color: orange;
+    font-size: 20px;
+    display: none;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: crimson;
+}
+
+.js-search-form {
+    text-align: center;
+    font-size: 30px;
+    text-decoration-color: #333;
+}
+
+input {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #EEE;
+    padding: 7px;
+}
+
+.wikidata-section {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    position: sticky;
+    top: 10px;
+}
+
+.yahooclass {
+    display: inline-block;
+    width: 31%;
+    margin-right: 1%;
+    margin-left: 1%;
+    height: 300px;
+}
+
+.wikiname {
+    font-size: 25px;
+    text-align: center;
+}
+
+img.wiki-picture {
+    width: 90%;
+    height: 90%;
+}
+
+.wikiextract {
+    font-size: 12px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.youtube-section {
+    margin-top: 300px;
+    top: 150px;
+    bottom: 20px;
+    position: absolute;
+    z-index: -2;
+    width: 100%;
+}
