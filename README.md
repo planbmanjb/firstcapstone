@@ -6,7 +6,7 @@ This app is for users who want to lookup their favor star and find out their exi
 
 
 ### UI Flow
-![UI Flow handwritten draft](https://github.com/KSherrell/where-is-the-iss-open-notify-api-capstone/blob/master/wireframe/ui-flow.jpg)
+![UI Flow handwritten draft ] (https://github.com/planbmanjb/firstcapstone/UI%20Flow%20capstone%201.jpg)
 ### Wireframe _main
 ![Wireframe _Main](https://github.com/KSherrell/where-is-the-iss-open-notify-api-capstone/blob/master/wireframe/wireframe-iss-main.jpg)
 ### Wireframe _User Cases
