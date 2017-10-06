@@ -6,14 +6,14 @@ This app is for users who want to lookup their favor star and find out their exi
 
 
 ### UI Flow
-![UI Flow handwritten draft ] (https://github.com/planbmanjb/firstcapstone/UI%20Flow%20capstone%201.jpg)
+![UI Flow handwritten draft ]<img src="/home/bellj/Desktop/Projects/Web_Developer_Class/Web_Dev_Fund/first-capstone/UI-Flow-capstone1.jpg" width="400" height="400" />
 ### Wireframe _main
-![Wireframe _Main](https://github.com/planbmanjb/firstcapstone/wireframe/wireframe-iss-main.jpg)
+![Wireframe _Main]<img src="/home/bellj/Desktop/Projects/Web_Developer_Class/Web_Dev_Fund/first-capstone/wireframe-capstone1.jpg" width="400" height="400" />)
 ### Wireframe _User Cases
-![Wireframe _User Case 1](https://github.com/planbmanjb/firstcapstone/wireframe-capstone1.jpg)
+![Wireframe _User Case 1]<img src="/home/bellj/Desktop/Projects/Web_Developer_Class/Web_Dev_Fund/first-capstone/wireframe-capstone1.jpg" width="400" height="400" />)
 
 ## Working Prototype
-You can access a working prototype of the app here: /
+You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/index.html)
 
 ## Functionality
 The app's functionality includes:
