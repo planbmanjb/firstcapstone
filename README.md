@@ -33,5 +33,3 @@ The app's functionality includes:
 The font was Ubuntu (https://fonts.googleapis.com/css?family=Ubuntu)
 You will need to access the Youtube APi (https://www.googleapis.com/youtube/v3/search) using your Youtube API key. The Wikipedia API does not request a key (https://en.wikipedia.org/w/api.php)
 
-* The app uses AJAX JSON calls to the <a href="http://www.convert-unix-time.com/api">Convert Unix Time</a>Open Platform API to return the unix timestamp converted to an UTC formatted date and time.
-
