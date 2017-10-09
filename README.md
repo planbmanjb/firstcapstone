@@ -3,12 +3,16 @@ A responsive website that pulls data from two APIs, Youtube (http://youtube.com)
 
 ## User Cases
 This app is for users who want to lookup their favor star and find out their existing biography and also videos showcasing their talents.
+
 ![Wireframe_Main](https://github.com/planbmanjb/firstcapstone/blob/master/wireframe-capstone1.jpg)
+
 ![Wireframe_User_Cases](https://github.com/planbmanjb/firstcapstone/blob/master/UI-Flow-capstone1.jpg)
 
 ## Working Prototype
 You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/index.html)
+
 ![Landing Page with no data](https://github.com/planbmanjb/firstcapstone/blob/master/landing-page-no-data.jpg)
+
 ![Landing Page with data](https://github.com/planbmanjb/firstcapstone/blob/master/landing-page-with-data.jpg)
 
 
