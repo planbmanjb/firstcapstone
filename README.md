@@ -1,4 +1,4 @@
-# "Where Is the ISS?" - Thinkful API Capstone Project
+# "Who is that famous person?" - Thinkful API Capstone Project
 A responsive website that pulls data from two APIs, Youtube (http://youtube.com) and Wikipedia (https://wikipedia.com/) to marry the information wikipedia with the videos of any famous person.
 
 ## User Cases
@@ -13,6 +13,8 @@ This app is for users who want to lookup their favor star and find out their exi
 ![Wireframe _User Case 1]<img src="/home/bellj/Desktop/Projects/Web_Developer_Class/Web_Dev_Fund/first-capstone/wireframe-capstone1.jpg" width="400" height="400" />)
 
 ## Working Prototype
+### UI Flow
+![Landing Page with no data](https://github.com/planbmanjb/firstcapstone/blob/master/landing-page-no-data.jpg)
 You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/index.html)
 
 ## Functionality
