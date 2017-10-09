@@ -44,7 +44,23 @@ h1 {
 }
 
 .inputdata-section {
-    width: 100% margin-bottom 5px;
+    width: 100%;
+    margin-bottom 5px;
+}
+
+input {
+    width: 70%;
+    display: inline-block;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 29%;
+    display: inline-block;
+    border: 1px solid grey;
+    padding: 10px;
 }
 
 .js-search-form {
