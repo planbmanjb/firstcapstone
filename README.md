@@ -7,7 +7,7 @@ This app is for users who want to lookup their favor star and find out their exi
 
 ### Wireframe _main
 ![Wireframe_Main](https://github.com/planbmanjb/firstcapstone/blob/master/wireframe-capstone1.jpg)
-![Wireframe_User_Cases](https://github.com/planbmanjb/firstcapstone/blob/master/wireframe-capstone2.jpg)
+![Wireframe_User_Cases](https://github.com/planbmanjb/firstcapstone/blob/master/UI-Flow-capstone1.jpg)
 
 ## Working Prototype
 You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/index.html)
