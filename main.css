@@ -18,12 +18,14 @@
 
 body {
     padding-top: 20px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
-button {
-    /*    text-decoration-color: #fff;*/
-    color: #fff;
-    padding: 7px;
+main {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1600px;
 }
 
 .noResponse {
@@ -41,25 +43,19 @@ h1 {
     color: crimson;
 }
 
+.inputdata-section {
+    width: 100% margin-bottom 5px;
+}
+
 .js-search-form {
     text-align: center;
     font-size: 30px;
     text-decoration-color: #333;
 }
 
-input {
-    border-style: solid;
-    border-width: 2px;
-    border-color: #EEE;
-    padding: 7px;
-}
-
 .wikidata-section {
-    font-family: 'Ubuntu', sans-serif;
     text-align: center;
     font-size: 25px;
-    position: sticky;
-    top: 10px;
 }
 
 .yahooclass {
@@ -67,7 +63,7 @@ input {
     width: 31%;
     margin-right: 1%;
     margin-left: 1%;
-    height: 300px;
+    height: auto;
 }
 
 .wikiname {
@@ -87,10 +83,24 @@ img.wiki-picture {
 }
 
 .youtube-section {
-    margin-top: 300px;
-    top: 150px;
+    margin-top: 30px;
+    /*    top: 150px;*/
     bottom: 20px;
-    position: absolute;
-    z-index: -2;
     width: 100%;
+}
+
+@media only screen and (max-width: 1024px) {
+    .yahooclass {
+        display: block;
+        width: 98%;
+        margin-bottom: 30px;
+    }
+    button {
+        width: 100%;
+        display: block;
+    }
+    input {
+        width: 100%;
+        display: block;
+    }
 }
