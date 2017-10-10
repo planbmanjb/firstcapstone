@@ -9,7 +9,7 @@ This app is for users who want to lookup their favor star and find out their exi
 ![Wireframe_User_Cases](https://github.com/planbmanjb/firstcapstone/blob/master/UI-Flow-capstone1.jpg)
 
 ## Working Prototype
-You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/index.html)
+You can access a working prototype of the app here:(https://github.com/planbmanjb/firstcapstone/blob/master/index.html)
 
 ![Landing Page with no data](https://github.com/planbmanjb/firstcapstone/blob/master/landing-page-no-data.jpg)
 
